@@ -2,7 +2,8 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-SketchDeco-green.svg?style=plastic)](https://arxiv.org/abs/2412.05180) [![ProjectPage](https://img.shields.io/badge/ProjectPage-SketchDeco-blue.svg?style=plastic)](https://chaitron.github.io/SketchDeco/)
 
-Official repo for [SketchDeco: Decorating B&amp;W Sketches with Colour](https://arxiv.org/abs/2405.18716).
+Official repo for [SketchDeco: Training-Free Latent Composition for Precise Sketch Colourisation
+](https://arxiv.org/abs/2405.18716).
 
 See [Project Page](https://chaitron.github.io/SketchDeco/) for more examples.
 
