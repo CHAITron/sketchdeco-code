@@ -99,10 +99,10 @@ Our work is built on the amazing achievements of those who came before us. A hug
 ## Citation
 If you find the repo useful, please consider citing:
 ```
-@article{utintu2024sketchdeco,
+@article{utintu2025sketchdeco,
   author    = {Chaitat Utintu and Pinaki Nath Chowdhury and Aneeshan Sain and Subhadeep Koley and Ayan Kumar Bhunia and Yi-Zhe Song},
-  title     = {SketchDeco: Decorating B&W Sketches with Colour},
+  title     = {SketchDeco: Training-Free Latent Composition for Precise Sketch Colourisation},
   journal   = {arXiv preprint arXiv:2405.18716},
-  year      = {2024},
+  year      = {2025},
 }
 ```
