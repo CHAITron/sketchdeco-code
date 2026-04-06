@@ -1,6 +1,6 @@
 # SketchDeco
 
-[![arXiv](https://img.shields.io/badge/arXiv-SketchDeco-green.svg?style=plastic)](https://arxiv.org/abs/2412.05180) [![ProjectPage](https://img.shields.io/badge/ProjectPage-SketchDeco-blue.svg?style=plastic)](https://chaitron.github.io/SketchDeco/)
+[![CVPR](https://img.shields.io/badge/Vanue-CVPR2026-rgb(153,0,76).svg?style=plastic)](https://cvpr.thecvf.com/Conferences/2026) [![arXiv](https://img.shields.io/badge/arXiv-SketchDeco-green.svg?style=plastic)](https://arxiv.org/abs/2412.05180) [![ProjectPage](https://img.shields.io/badge/ProjectPage-SketchDeco-blue.svg?style=plastic)](https://chaitron.github.io/SketchDeco/)
 
 Official repo for [SketchDeco: Training-Free Latent Composition for Precise Sketch Colourisation
 ](https://arxiv.org/abs/2405.18716).
